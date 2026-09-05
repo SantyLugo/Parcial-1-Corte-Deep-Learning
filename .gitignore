@@ -1,8 +1,20 @@
-/.venv
-/__pycache__
-/.pytest_cache
-/.ipynb_checkpoints
-/Lib\site-packages
-/Scripts
-/pyvenv.cfg
+# Entornos virtuales
+.venv/
+venv/
+env/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pytest
+.pytest_cache/
+
+# Otros
 CACHEDIR.TAG
