@@ -2,3 +2,7 @@
 /__pycache__
 /.pytest_cache
 /.ipynb_checkpoints
+/Lib\site-packages
+/Scripts
+/pyvenv.cfg
+CACHEDIR.TAG
